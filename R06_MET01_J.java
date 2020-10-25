@@ -21,6 +21,7 @@ package cis4615;
  */
 
 public class R06_MET01_J {
+	// Compliant code
 	public static int getAbsAdd(int x, int y) {
 		if (x == Integer.MIN_VALUE || y == Integer.MIN_VALUE) {
 			throw new IllegalArgumentException();
