@@ -2,7 +2,7 @@ package cis4615;
 
 /*
  * Daniel Lu
- * Rule 10. Do not invoke Thread.run(), R10_THI100_java
+ * Rule 10. Do not invoke Thread.run(), R10_THI100_J.java
  * Non-compliant code
  * public final class Foo implements Runnable {
 	  @Override public void run() {
